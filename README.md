@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning JAVA and SPRING 
+- 🌱 I’m currently learning JAVA and SPRING BOOT
 - 💬 Ask me about what you want 😄
 - 📫 How to reach me:
 -  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iliescuvalentin8@gmail.com)](mailto:iliescuvalentin8@gmail.com)
