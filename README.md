@@ -16,6 +16,9 @@
 - 💬 Ask me about what you want 😄
 - 📫 How to reach me:
 -  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iliescuvalentin8@gmail.com)](mailto:iliescuvalentin8@gmail.com)
+-  <p >
+<a href="https://linkedin.com/in/valentin-iliescu-4422b510a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
 -  
 ### Some Stats Valentin Iliescu (Public Only)
 <p align="center" >
