@@ -1,5 +1,6 @@
+<p align="center" >
   ![tenor](https://github.com/IliescuVali/IliescuVali/assets/122371102/8e6ecd72-749c-44cb-a4d1-a5a767c65195)
-
+<p align="center">
 
 
 
