@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning JAVA, SPRING :Spring Boot, Spring RestAPI, Spring MVC, Spring Security, Thymeleaf, JPA & Hibernate.
+- 🌱 I’m currently learning JAVA, SPRING :Spring Boot, Spring RestAPI, Spring MVC, Spring Security, Thymeleaf, JPA & Hibernate, AOP.
 - 💬 Ask me about what you want 😄
 - 📫 How to reach me:
 -  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iliescuvalentin8@gmail.com)](mailto:iliescuvalentin8@gmail.com)
