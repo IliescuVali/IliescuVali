@@ -8,8 +8,9 @@
   ![](https://komarev.com/ghpvc/?username=IliescuVali&label=PROFILE+VIEWS)
 
 
-  I am a programming enthusiast looking to make a professional transition into Java application development. I have recently completed courses in SQL and Java, and I am ready to kick-start my career in Java application development. My current skills include basic knowledge of object-oriented programming, , databases. 
-  I aspire to join a development team and further enhance my skills in a professional environment as I embark on my journey in Java application development. I am open to opportunities as a Junior Java Developer and eager to contribute to the development of high-quality software solutions.
+  I am a passionate learner eager looking to make a professional transition. I have recently completed courses in SQL and Java.
+  My current skill set includes a foundational understanding of object-oriented programming, user interface development and databases.
+
 
 
 
