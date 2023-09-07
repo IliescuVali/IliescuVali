@@ -9,7 +9,7 @@
 
 
   I am a passionate learner eager looking to make a professional transition. I have recently completed courses in SQL and Java.
-  My current skill set includes a foundational understanding of object-oriented programming, user interface development and databases.
+    My current skill set includes a foundational understanding of object-oriented programming, user interface development and databases.
 
 
 
