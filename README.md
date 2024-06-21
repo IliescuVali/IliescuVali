@@ -8,8 +8,9 @@
   ![](https://komarev.com/ghpvc/?username=IliescuVali&label=PROFILE+VIEWS)
 
 
-  I am a passionate learner eager looking to make a professional transition. I have recently completed courses in SQL and Java.
-    My current skill set includes a foundational understanding of object-oriented programming, user interface development and databases.
+  Dedicated ISTQB-certified software tester with extensive training in test automation using Java. 
+  Passionate about embracing new challenges that drive continuous learning and skill enhancement. 
+  Seeking to excel in a dynamic and innovative QA environment where I can fully leverage my potential and contribute to cutting-edge projects.
 
 
 
